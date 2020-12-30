@@ -1,4 +1,4 @@
-package com.zcalender;
+package com.apurba.zcalender;
 
 import org.junit.Test;
 

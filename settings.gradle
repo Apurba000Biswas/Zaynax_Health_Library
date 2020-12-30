@@ -1,3 +1,3 @@
-include ':zcalender'
+include ':zCalender'
 include ':app'
 rootProject.name = "Zaynax_Health_Library"
